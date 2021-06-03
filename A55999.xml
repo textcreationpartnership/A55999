@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poetical essays</title>
+         </titleStmt>
+         <extent>Approx. 67KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55999</idno><idno type="EEBO-CITATION">12276654</idno>
+  <idno type="VID">58458</idno>
+  <idno type="EEBO-PROQUEST">2240959873</idno>
+  
+            <idno type="STC">Wing P3663</idno>
+            <idno type="STC">ESTC R31929</idno>
+            <idno type="OCLC">12276654</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58458)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1512:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poetical essays</title>
+               </titleStmt>
+               <extent>[9], 53 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>At head of title: Prolusiones poëticæ.</note>
+                  <note>"Licensed, January 3d. 1686/7. R.M."--3p. [1]</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:58458:1"/>
+            <p>Licensed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>January</hi> 3d. 1686/7.</date>
+               </dateline>
+               <signed>R. M.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:58458:1"/>
+            <p>
+               <hi>Prolusiones Poëticae.</hi>
+            </p>
+            <p>POËTICAL ESSAYS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1687.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58458:2"/>
+            <pb facs="tcp:58458:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>THough I could, as well as others, have Graced this Piece with some Great Man's Name in the Front; yet
+<pb facs="tcp:58458:3"/> I have rather Chosen to give the World a Freedom of Ʋn<g ref="char:EOLhyphen"/>prepossed Censuring, by not so much as putting my own Name to it; Which will crush Parti<g ref="char:EOLhyphen"/>ality in the Egg; Whilst every one neither Liking nor Mislik<g ref="char:EOLhyphen"/>ing the Author, as not Know<g ref="char:EOLhyphen"/>ing him, will consider the Piece as Men do a Forreigner, whose Extract they are Ignorant of, Judging of him either to his Ad<g ref="char:EOLhyphen"/>vantage or Disadvange by no other Rule, than what his Personal Actions set before them.</p>
+            <p>As to my Love-Toys, <hi>Rea<g ref="char:EOLhyphen"/>der,</hi> Thou hast the like Freedom
+<pb facs="tcp:58458:3"/> of Thinking, what was the Mov<g ref="char:EOLhyphen"/>ing Cause of my making them: Whether it were my being En<g ref="char:EOLhyphen"/>gaged in that Passion, the Entrea<g ref="char:EOLhyphen"/>ty of Others, or only for a Diver<g ref="char:EOLhyphen"/>tisement of my Poetical Fancy. Only, Ladies, if this Trifle of a Book happen to fall into your Fair Hands; In Requital of the Hon<g ref="char:EOLhyphen"/>our you will do it, in vouchsafing to Read it, I Reckon my Self Obliged in Civility to make this True Apologie, in Reference to that against Marriage; That it was made at the Request of one of your own Sex, who was that way Disposed. But if this small Piece be so Favourably Received, as to
+<pb facs="tcp:58458:4"/> require a Second Impression, you shall then find it sufficiently An<g ref="char:EOLhyphen"/>swered.</p>
+            <p>I might have scattered up and down those Toyes (according to the Example of Almost all my Predecessors in Poetry) Wit and Fancy, taken from the Scripture, which would perhaps have ren<g ref="char:EOLhyphen"/>der'd them more Acceptable to some Readers. But this Fault (if it be one) I Designedly com<g ref="char:EOLhyphen"/>mitted, Esteeming that Sacred Vo<g ref="char:EOLhyphen"/>lume worthy of a Greater Venera<g ref="char:EOLhyphen"/>tion, than to be Quoted upon every Frivolous Occasion. Those that follow other Poets in that point,
+<pb facs="tcp:58458:4"/> may perhaps raise their Credit a<g ref="char:EOLhyphen"/>mongst Loose VVits; but, I be<g ref="char:EOLhyphen"/>lieve, will hardly be counted Reli<g ref="char:EOLhyphen"/>gious by Sober Men: For all Grant that it is Dangerous, <hi>Ludere cum Sacris.</hi>
+            </p>
+            <p>As to my Translations, whether I have taken too much, or too little Liberty, I shall submit my self to the Judgement of those Lear<g ref="char:EOLhyphen"/>ned, that shall reckon it worth their while to compare them with their Originals.</p>
+            <p>I have nothing Remaining, <hi>Reader,</hi> but only to beg thy Can<g ref="char:EOLhyphen"/>dor and Charity for what Mistakes
+<pb facs="tcp:58458:5"/> may have escaped Ʋnseen by me; And to wish Thee as much plea<g ref="char:EOLhyphen"/>sure in thc Reading, as I had in the making of these following <hi>Essays of Poetry.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:58458:5"/>
+            <head>Mart. <hi>LIB. V.</hi> Quae mihi Praestiteris, <hi>&amp;c.</hi>
+            </head>
+            <l>HOW you've oblig'd me, I remember well,</l>
+            <l>Yet I don't speak, because you do it tell;</l>
+            <l>As oft as I to any one begin</l>
+            <l>To speak; He says, I heard the same of him.</l>
+            <l>Two do not all things well; One's best for this;</l>
+            <l>If you would have me speak, hold you your peace.</l>
+            <l>The greatest kindnesses are rendred small</l>
+            <l>When by the Doer they are told to all.</l>
+         </div>
+         <div type="part">
+            <head>Mart. <hi>LIB. V.</hi> Cras tu Virtutum, <hi>&amp;c.</hi>
+            </head>
+            <l>ALways, to Morrow you will live you say,</l>
+            <l>VVhen cometh this to Morrow, tell me, pray.</l>
+            <l>How far is't off? Or where is't to be found?</l>
+            <l>Is't i'th' <hi>Armeni'n,</hi> or the <hi>Parthi'n</hi> ground?</l>
+            <l>Than <hi>Priamus,</hi> or <hi>Nestor</hi> 'tis more old,</l>
+            <l>Pray tell me for how much is't to be sold?</l>
+            <pb n="2" facs="tcp:58458:6"/>
+            <l>You'l live to Morrow; But too late's to day,</l>
+            <l>He is the VVise Man, that liv'd yesterday.</l>
+         </div>
+         <div type="part">
+            <head>Mart. <hi>LIB. VI.</hi> Scis te Captari; <hi>&amp;c.</hi>
+            </head>
+            <l>YOU know, you're sought to be entrapt, you know</l>
+            <l>VVho 'tis, and also what he means too;</l>
+            <l>Yet you, poor Fool, have put him in your VVill,</l>
+            <l>And would have him your Vacant Room to fill.</l>
+            <l>'Tis true he sent you Gifts; but for a Bait:</l>
+            <l>Can the Fish love the Fisher which does wait</l>
+            <l>But for his Life? Can's Tears and Heart consent,</l>
+            <l>But leave him nothing, he'l indeed lament.</l>
+            <div type="section">
+               <head>In Pavonem.</head>
+               <l>Quae volucris toto Caelestior Orbe videtur,</l>
+               <l>Quàm qui delectat Junonis Gemmeus Ales?</l>
+               <l>Astra gerit caudâ, veluti signantia sedem,</l>
+               <l>Quâ Domina ipsius sedet, &amp; Regina Dearum.</l>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:58458:6"/>
+            <head>The Ʋnhapppy.</head>
+            <l>LET Base and Sordid Souls for Riches Love,</l>
+            <l>Compleat Felicity let others move.</l>
+            <l>My Love's more Gen'rous, and my thoughts more brave,</l>
+            <l>'Tis one unhappy I desire to have.</l>
+            <l>Then if my Lot be hard and Fortune frown,</l>
+            <l>'Tis but the same, which she before has known;</l>
+            <l>She only keeps in the same tiresome Rode,</l>
+            <l>VVhich she before with Pati'nce long had trod.</l>
+            <l>I'le bear a part with her, and she'le with me,</l>
+            <l>And in Unhappiness we'le happy be.</l>
+            <l>Our mutual Love shall baffle our cross Fate,</l>
+            <l>And we'le, in spight of Fortune, Love in State.</l>
+            <l>But if my Prosp'rous days are yet behind,</l>
+            <l>And my Good Fate lingers to be more kind;</l>
+            <l>She then shall know how Gen'rous I have been,</l>
+            <l>And what my Noble thoughts at first did mean.</l>
+            <div type="section">
+               <head>Absence.</head>
+               <l>And art thou gone my Dear? And did we part?</l>
+               <l>No, for Thou taken hast with thee my Heart.</l>
+            </div>
+            <div type="section">
+               <head>Another.</head>
+               <l>Oh! when wilt thou return? My Dear, Oh! when?</l>
+               <l>VVhen shall I have thee in my Arms again?</l>
+               <l>Thy kind Embraces when shall I receive?</l>
+               <l>My kind Embraces when shall I thee give?</l>
+               <pb n="4" facs="tcp:58458:7"/>
+               <l>How long is yet to come? Oh! Lingring Sun,</l>
+               <l>How sluggishly dost thou thy Races run?</l>
+               <l>Entwin'd in thy Dear Arms, Oh! when shall I</l>
+               <l>Repose my self a while, and learn to dye?</l>
+               <l>Forget this busie VVorld, and all it's Care?</l>
+               <l>Enjoy my self and Thee, and nothing fear?</l>
+               <l>On the sweet Pillow of thy Arms I'de rest</l>
+               <l>From all my Troubles, all my Cares Releast.</l>
+            </div>
+            <div type="section">
+               <head>Both in Love.</head>
+               <l>VVelcome, kind Cupid, now thy Joys I have,</l>
+               <l>There's nothing but's too small for me to crave.</l>
+               <l>Now thou hast pair'd our Hearts, what would I more!</l>
+               <l>Possess'd of my Love's Heart, I can't be Poor.</l>
+               <l>Clasp'd in my Love's kind Arms, I'le strait forget</l>
+               <l>The Injuries of Fate, though ne're so great.</l>
+               <l>Those kind Embraces shall my <hi>Lethe</hi> be,</l>
+               <l>And wash out all the Tracks of Misery.</l>
+               <l>Toss'd on the Billows of Cross Fortune, here</l>
+               <l>I'le Land, and neither Storm, nor Tempest fear.</l>
+               <l>Here Ravish't with Delight I'le stay, and none</l>
+               <l>VVill Envy, not the Prince o'th' Richest Throne.</l>
+            </div>
+            <div type="section">
+               <head>Not Fair.</head>
+               <l>Not Features of the Face, but of the Mind;</l>
+               <l>To be the Loadstone of my Love I find.</l>
+               <l>Those Fading Features which the Skin may have,</l>
+               <l>VVhen I but close my Eyes still find a Grave.</l>
+               <l>Each night in Youth, they vanish quite away,</l>
+               <l>Until the Candle come, or else the day:</l>
+               <l>But when Age comes, nor Day, nor Candle light</l>
+               <l>Can Represent those Features to my Sight.</l>
+               <pb n="5" facs="tcp:58458:7"/>
+               <l>Give me those Lasting ones, from which nor Age,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Darksome night, my Love can Disengage;</l>
+               <l>That Flourish still and watered are by time,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd never, till old Age, come to their Prime.</l>
+            </div>
+            <div type="section">
+               <head>Fast and Lose.</head>
+               <l>Thus <hi>Tantalus</hi> by Apples Courted is,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd when he seeks them not, the VVaters Kiss</l>
+               <l>His Lips: But when he stoops and would them take;</l>
+               <l>Then, like Coy Dames, all haste from him they make.</l>
+               <l>They will, and yet they will not, still Refuse</l>
+               <l>VVhat, if their Hearts might speak, they'd soonest chuse.</l>
+            </div>
+            <div type="section">
+               <head>The Parting.</head>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arewell, My Unconstant, My Dearest Unkind,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le alter my Love, since Thou dost Thy Mind.</l>
+               <l>Could'st thou but have lov'd me, I would have lov'd thee,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd my Love should have rose to the highest Degree</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Husband more loving there should none have been,</l>
+               <l>Nor shouldst thou've repented what e're thou hadst seen.</l>
+               <l>The love betwixt others should have made thee to say,</l>
+               <l>This differs from Ours, as Night does from Day.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut since thou'lt be gone, I wish thee good speed,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd from my Addresses thou shalt be quite freed.</l>
+               <l>Tis in vain to Court shadows that vanish away,</l>
+               <l>Or a Mistress pursue, that no where will stay.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thou lov'st a Second, a Second I'le chuse;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd a Third, if that Second, like thee, does me use;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fourth shall succeed, if the Third prove Unkind;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Fifth and a Sixth, till one constant I find.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f none Constant I find, Adieu to Fond Love,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et still I'le Caress them, and a Courtier I'le Prove:</l>
+               <pb n="6" facs="tcp:58458:8"/>
+               <l>I'le use them as Play-things to drive time away,</l>
+               <l>VVhen I at my Studies or Business can't stay.</l>
+            </div>
+            <div type="section">
+               <head>Against Marriage.</head>
+               <lg>
+                  <l>Come, Darling Chastity! Avant, Fond Love,</l>
+                  <l>VVhich only do'st t' unsettled Persons prove</l>
+                  <l>A seeming Pleasure; For thou seem'st to be,</l>
+                  <l>VVhat none could ever truly find in thee.</l>
+                  <l>As silly Idle Children often long</l>
+                  <l>For that 'bout which the Bees in Crouds do throng,</l>
+                  <l>Attempt the Hive and find some Honey there,</l>
+                  <l>But of those Stings which guarded them, they bear</l>
+                  <l>The Marks much longer than the Sweets do last,</l>
+                  <l>The Stings remain after the Taste is past.</l>
+                  <l>So those who love pursue, acquire short Joy,</l>
+                  <l>But with it Cares, which still their rest annoy.</l>
+                  <l>Those Golden Apples hanging on Love's Tree,</l>
+                  <l>By watchful, fiery Dragons Guarded be;</l>
+                  <l>Some reaching at them, sorely wounded are,</l>
+                  <l>And then retire possest with lasting fear;</l>
+                  <l>Others who've reacht, and have the Fruit secur'd,</l>
+                  <l>Retiring have the Dragon's rage endur'd;</l>
+                  <l>VVounds never-curable they've born away</l>
+                  <l>VVith their much-fanci'd, but dear-gotten prey.</l>
+               </lg>
+               <lg>
+                  <l>Courtship is tedi'us, flattering, and cloys</l>
+                  <l>VVith it's Impertinence and childish toys.</l>
+                  <l>Too starcht and formal, where no Freedom is,</l>
+                  <l>And each slight Acti'n censur'd is amiss.</l>
+                  <l>All things are acted which it's thought may please,</l>
+                  <l>Though counterfeited with but little Ease.</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:58458:8"/>
+                  <l>The Marriage-Bed is Deck'd with Jealous weeds;</l>
+                  <l>Tuck'd up with Careful Troubles thorny Reeds.</l>
+                  <l>Loss and Misfortunes hang the Chamber round,</l>
+                  <l>And Brittle Slipp'ry Ice makes up the Ground.</l>
+               </lg>
+               <lg>
+                  <l>These things with Reason me from Love Affright,</l>
+                  <l>My Day is Pleasant, Untiresom's my Night:</l>
+                  <l>Uninterrupted Sleeps all Night I take,</l>
+                  <l>No Children's Cryes, or Carking Cares me wake.</l>
+               </lg>
+               <lg>
+                  <l>I'm Uncontroul'd as to my Main Concern,</l>
+                  <l>The Lesson of Misfortune I can Learn</l>
+                  <l>At a much Cheaper Rate, now I'me Alone,</l>
+                  <l>Than if I'd other selves that I must Mone.</l>
+                  <l>My Better Fortunes will much Sweeter taste,</l>
+                  <l>Their pleasant Springs too will much longer last,</l>
+                  <l>Than if more hands were to exhaust the Store,</l>
+                  <l>Or many Mouths were to taste them before:</l>
+                  <l>The Sun's contracted Beams i'th' Burning-glass</l>
+                  <l>Are hotter far, than in a w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der place.</l>
+                  <l>If one place please me not, I'le move from thence</l>
+                  <l>Unto some other, with a small expence.</l>
+                  <l>Without those parting Pangs which Lovers know,</l>
+                  <l>When from each other they are forc'd to go:</l>
+                  <l>Without those Troubles, ted'ous Trains attend,</l>
+                  <l>And in less time, than Families must spend.</l>
+               </lg>
+               <lg>
+                  <l>My Private Thoughts I'le to my self Rehearse,</l>
+                  <l>And Breath my Meditations out in Verse.</l>
+                  <l>My Vacancies I'le spend in Thoughts Divine,</l>
+                  <l>Such they shall be, Lord, as agree with Thine:</l>
+                  <l>Thou'lt not despise, thou'lt still receive my Pray'r,</l>
+                  <l>VVhilst I'm on Earth, my Voice shall pierce the Air;</l>
+                  <pb n="8" facs="tcp:58458:9"/>
+                  <l>Mount up to Heav'n, and there secure a Friend,</l>
+                  <l>That in all straits will Succour to me send.</l>
+                  <l>And thus secur'd, I'le spend my peaceful Days,</l>
+                  <l>And still set forth my Great Protector's Praise.</l>
+                  <l>I'le scorn this Lump of Earth, this busie Hive,</l>
+                  <l>VVhere Men so eagerly for Riches strive;</l>
+                  <l>Give me but Food and Rayment, I'm Content,</l>
+                  <l>Let others Rafters with their Gold be Bent.</l>
+                  <l>Thus I'le expect until thou sendest Death,</l>
+                  <l>And then I'le willingly resign my Breath.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:58458:9"/>
+            <head>LEANDER TO HERO: Out of <hi>Ovid</hi>'s Epistles.</head>
+            <argument>
+               <head>The ARGUMENT.</head>
+               <p>The <hi>Hellespont</hi> (that is the Sea of <hi>Helle,</hi> so called from <hi>Helle, Phryxus's</hi> Sister, who was drowned in it) dividing <hi>Europe</hi> and <hi>Asia,</hi> had <hi>Sestos</hi> (the City where <hi>Hero</hi> lived) and <hi>Abydos</hi> in <hi>Asia</hi> (where <hi>Leander</hi> lived) opposite to each other upon the two Shores, where it being not above seven or eight Furlongs broad, <hi>Leander</hi> used to swim over by night to <hi>Hero,</hi> and return in the morning: But being hindered for some days from swimming by a violent Storm, he sends her this Letter. But the Storms continuing, made him venture to swim through it, where he was Drowned.</p>
+            </argument>
+            <l>WHat he had rather bring, <hi>Leander</hi> sends,</l>
+            <l>Health to his Love. Oh that the VVa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es were friends!</l>
+            <l>By the Good Gods if my Love favour'd be,</l>
+            <l>These Lines Unwelcome will be thought by thee.</l>
+            <pb n="10" facs="tcp:58458:10"/>
+            <l>They don't it favour. VVhy do they me stay?</l>
+            <l>VVhy through the waves, do they shut up my way?</l>
+            <l>Thou seest the Gloomy Heav'n, and stormy VVave,</l>
+            <l>To pass which, Seamen scarce the Courage have.</l>
+            <l>This one Bold Bearer durst out-brave the VVinds,</l>
+            <l>Looses from Harbor, brings to Thee my Lines.</l>
+            <l>I'was taking Ship, but as he was about</l>
+            <l>To weigh his Anchor, all the Town lookt out.</l>
+            <l>I could not have conceal'd my Parents still,</l>
+            <l>Our Love had been disclos'd against our VVill.</l>
+            <l>Then said I writing, Happy Letter go,</l>
+            <l>The touch of her Fair Hand thou soon wilt know.</l>
+            <l>Perhaps her Coral Lips too thou mayst Kiss,</l>
+            <l>VVhil'st with her Teeth thy Seal she op'ning is.</l>
+            <l>Thus briefly to my self I muttered,</l>
+            <l>The rest my right hand to the Paper said.</l>
+            <l>Oh that for writing, it were swimming now!</l>
+            <l>And me the VVatry Rode were carr'ing through!</l>
+            <l>'Twere fitter with it in the VVaves to Row,</l>
+            <l>'Tis fit to speak, since it my Mind does know.</l>
+            <l>For sev'n whole nights, long as a tedi'us Year,</l>
+            <l>Upon this angry Sea's brows frowns appear:</l>
+            <l>All which long time, if I have slept at all,</l>
+            <l>May the Sea's stormy Rage still cease to fall.</l>
+            <l>Sad on some Rock I sit and view the Shore,</l>
+            <l>And send my Mind, though not my Body or'e.</l>
+            <l>My Pole-star in the Tow'r, thy Candle too,</l>
+            <l>I either see indeed, or think I do.</l>
+            <l>Thrice stript, my Cloths I on the Bank had laid;</l>
+            <l>Thrice to go through the VVaters I essay'd;</l>
+            <l>Thrice my Attempts were by the Sea withstood;</l>
+            <l>Thrice swimming I was plung'd into the Flood.</l>
+            <l>Of the fierce VVinds, O thou the fiercest far,</l>
+            <l>VVhat makes thee against me thus raise a VVar?</l>
+            <pb n="11" facs="tcp:58458:10"/>
+            <l>'Gainst me, and not the Seas thy Rage is mov'd,</l>
+            <l>VVhat wouldst thou do, alas! hadst thou not lov'd?</l>
+            <l>Though thou'rt so cold, yet canst thou not deny,</l>
+            <l>That with <hi>Actaean</hi> Flames thou once didst fry,</l>
+            <l>In thy carreer to love, should any set</l>
+            <l>A stop, how would'st thou bear that tedi'us Let?</l>
+            <l>Spare then thy Rage, let thy Gales gently blow:</l>
+            <l>No hard commands from <hi>Eolus</hi> mayst thou know.</l>
+            <l>My Pray'rs are vain, <hi>Bor'as</hi> still murmureth,</l>
+            <l>Of the fierce VVinds there ceaseth not one Breath.</l>
+            <l>Lend me thy wings, O <hi>Dedalus</hi> to fly,</l>
+            <l>I care not though thy Sons Fate be hard by,</l>
+            <l>I'le stand the Danger, so I may but be</l>
+            <l>There through the Air, whither I went by Sea.</l>
+            <l>But whilst the VVinds and Seas thus envious prove,</l>
+            <l>VVith pleasure I think over my past Love.</l>
+            <l>'Twas young night, when I came forth to thee, Dear;</l>
+            <l>('Tis pleasure, past Joys in the Mind to bear)</l>
+            <l>Strait I put off with my Clothes sluggish Fear,</l>
+            <l>And my Brisk Arms my Body up did bear.</l>
+            <l>The kind Moon shone to me as light as day,</l>
+            <l>And bore me Company through all the way.</l>
+            <l>VVith lift-up eyes, said I, to me be kind,</l>
+            <l>And let thy <hi>Latmi'n</hi> Loves possess thy Mind.</l>
+            <l>
+               <hi>Endymi'n</hi> will not let thee be severe,</l>
+            <l>Assist me then in the Course that I steer.</l>
+            <l>A Mortal did thy Divine Passi'n move,</l>
+            <l>(Let me speak Truth) a Goddess 'tis, I love.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'le pass by the perfecti'ns of her Mind:</l>
+            <l>Such Beautie's never but in shapes Divine.</l>
+            <l>Her Face is next to <hi>Venus</hi>'s, after thee,</l>
+            <l>Credit thou not my words, thy self may'st see.</l>
+            <l>As much as from all Stars thou win'st the Bays,</l>
+            <l>VVhen thou shin'st forth with thy pure silver Rayes;</l>
+            <pb n="12" facs="tcp:58458:11"/>
+            <l>So much excell'd by Her, all Beauties be;</l>
+            <l>VVhich if thou doubt'st, <hi>Cynthia,</hi> thou canst not see.</l>
+            <l>These, or words like these, as I swam I spake,</l>
+            <l>And through the yielding waves my way I brake.</l>
+            <l>The moving waves shone with reflected Rayes,</l>
+            <l>The Light that Night was equal with the Day's.</l>
+            <l>No noise at all unto my Ears did come,</l>
+            <l>But of my moving Body as I swoom.</l>
+            <l>For <hi>Ceyx</hi>'s Love the King's Fishers alone,</l>
+            <l>Methoughts, sung to me a Melodi'us mone.</l>
+            <l>My Arms be'ng weari'd with the strokes they gave,</l>
+            <l>I briskly perch'd my Head above the wave;</l>
+            <l>Seeing thy Light, I said, Yonder's my Fire,</l>
+            <l>That distant shore contains all I desire.</l>
+            <l>My former strength return'd to my tir'd Arms,</l>
+            <l>And the smooth'd waves seem'd to be bound with Charms.</l>
+            <l>Love caus'd that I the waters Cold felt not;</l>
+            <l>Love, which possess'd my Active Breast so hot.</l>
+            <l>The nearer I approach, and come to shore,</l>
+            <l>The less the way's to go, my Strength is more.</l>
+            <l>VVhen I see thee, Thy Presence does Revive</l>
+            <l>My drooping Spirits, and thou mak'st me Live.</l>
+            <l>And now I swim Genteelely, thee to please,</l>
+            <l>And in thy Sight move on with Graceful Ease.</l>
+            <l>Out of the Sea thy Nurse could scarce keep thee:</l>
+            <l>(Thy words deceiv'd me not) This I did see.</l>
+            <l>Nor could she do, what she to do did think,</l>
+            <l>Thy tender Foot was wet in the Sea's Brink.</l>
+            <l>Embraces then, and Kisses me employ,</l>
+            <l>VVhich o're the Seas fetcht, Gods to have might joy.</l>
+            <l>To cover me, thy shoulders thou mak'st bare,</l>
+            <l>And Lovingly dryest my Sea-wet Hair.</l>
+            <l>The rest VVe, and the Consci'us Tow'r best know,</l>
+            <l>And that kind Light which me the way did show:</l>
+            <pb n="13" facs="tcp:58458:11"/>
+            <l>The Joys of that Night if you number can,</l>
+            <l>Then you may count the Waves too of the Main.</l>
+            <l>And as our time grew short for sport, so we</l>
+            <l>Took care, that short time should not Idle be.</l>
+            <l>The pleasant Night is almost at an end,</l>
+            <l>And the bright Morning the Day-star does send.</l>
+            <l>In haste we huddle Kisses whilst I stay,</l>
+            <l>Whilst we complain that the Nights fly away.</l>
+            <l>But whilst I linger thus, the Nurse calls me</l>
+            <l>From thy Lov'd Chamber to the hated Sea.</l>
+            <l>VVe weeping part; and I to Sea again,</l>
+            <l>Still looking back upon thee, whilst I can.</l>
+            <l>I coming do a Swimmer seem to be,</l>
+            <l>Methinks I'm shipwrackt coming home from thee.</l>
+            <l>This too is true; the way to thee's down Hill,</l>
+            <l>VVhich to ascend from thee does almost kill.</l>
+            <l>Homewards I heavy go, who can't believe?</l>
+            <l>And 'cause I stay now's that, for which I strive.</l>
+            <l>Alas! why joyn'd in mind doth th' Sea Us part?</l>
+            <l>VVhy has not one Land Us two, One in Heart?</l>
+            <l>Come thou to mine, or else take me to thine;</l>
+            <l>I as well thine do like, as thou dost mine.</l>
+            <l>VVhy must my pleasure on the Sea depend?</l>
+            <l>VVhy cease my joys when the winds do't befriend?</l>
+            <l>The Dolphins know our loves; the Fishes too,</l>
+            <l>As oft as I the waters pass, me know.</l>
+            <l>A perfect Path through the waves may be seen,</l>
+            <l>As ways which by Cart-wheels have oft prest been.</l>
+            <l>'Cause no way else was, I did once complain,</l>
+            <l>But now for want of this I live in pain.</l>
+            <l>The Virgin's Sea with waves does proudly swell,</l>
+            <l>The Ships scarce safely in the Harbors dwell.</l>
+            <l>When this sea did from <hi>Helle</hi> it's name take,</l>
+            <l>Such billows, I believe, the winds did make.</l>
+            <pb n="14" facs="tcp:58458:12"/>
+            <l>'Tis Infamous enough since <hi>Helle</hi> tost,</l>
+            <l>And though it drown not me, it's Credit's lost.</l>
+            <l>I envy <hi>Phryxus,</hi> whom through troubled Seas,</l>
+            <l>The Golden Ram carri'd upon his Fleece.</l>
+            <l>I scorn the help of either Ship or Ram,</l>
+            <l>Give me but smoother waves, that may be swam.</l>
+            <l>I need no Art; let me but swim the Sea.</l>
+            <l>I Marriner, Ship, Passenger will be.</l>
+            <l>Nor by the greater or the lesser Bear,</l>
+            <l>Or any Publick Stars will my Love steer.</l>
+            <l>Let <hi>Ariadne</hi> and <hi>Andromeda,</hi>
+            </l>
+            <l>And cold <hi>Calisto</hi> shew Seamen their way.</l>
+            <l>These <hi>Perseus, Bacchus</hi> and Great <hi>Jove</hi> did please,</l>
+            <l>But for my Guides, I will have none of these.</l>
+            <l>I have a better and much surer light,</l>
+            <l>VVhose Guidance ne're will shew my love the Night.</l>
+            <l>By 't's Light to <hi>Colchos</hi> and the utmost Seas,</l>
+            <l>And where the <hi>Argo</hi> went, I'le go with Ease.</l>
+            <l>I'le <hi>Ino</hi>'s Son in swimming far surpass,</l>
+            <l>And <hi>Glaucus</hi> too made a God by the Grass.</l>
+            <l>My Arms through Moti'n often weary grow,</l>
+            <l>Scarce can I make them through the water go.</l>
+            <l>VVhen, I say, your Rewards great, and them Check,</l>
+            <l>I'le fold you strait about my Mistress's Neck.</l>
+            <l>Strait they revive, and make to thee apace,</l>
+            <l>As a swift Horse running i'th' <hi>Eli'n</hi> Race.</l>
+            <l>Close to my self I'le keep my burning Love,</l>
+            <l>Still I'le love thee, who'rt fit for Heav'n above.</l>
+            <l>Thou'rt fit for Heav'n indeed, but on Earth stay,</l>
+            <l>Or else unto the Gods shew me the way.</l>
+            <l>Here 'tis that I shall see thee, though not oft,</l>
+            <l>My Mind's disturb'd when the Seas mount aloft.</l>
+            <l>If the broad Oc'an did us separate,</l>
+            <l>Now this Flood does, the same would be our state.</l>
+            <pb n="15" facs="tcp:58458:12"/>
+            <l>It were as Good, I think, Remov'd I were</l>
+            <l>At farthest distance from my Hope and Dear.</l>
+            <l>The nearer thou'rt, the hotter Flame I find,</l>
+            <l>My Joy is not, my Hope's still in my Mind.</l>
+            <l>So near I am, I almost touch my Love,</l>
+            <l>This thought, Alas! does my tears often move.</l>
+            <l>In wishing, I at Bobbing Apples snatch,</l>
+            <l>And at retiring waves in vain I catch.</l>
+            <l>My having thee, must the VVaves alwayes Curb?</l>
+            <l>Nor happy be, when VVinds the Flood Disturb?</l>
+            <l>Since nought's less constant, than the VVind and Sea;</l>
+            <l>On them must my Hope still dependant be?</l>
+            <l>The storm continues, and the Sea makes VVars,</l>
+            <l>VVhat will the <hi>Pleias, Bear</hi> and <hi>Goaty</hi> Stars?</l>
+            <l>How Bold I am, I know not; or else me</l>
+            <l>My Love shall send through the tempest'ous Sea.</l>
+            <l>For a long time, think not, I promise make,</l>
+            <l>Speedy performance shall that Bond up take.</l>
+            <l>If this storm lasteth but a few nights more,</l>
+            <l>Through the unwilling waves I'le seek thy shore.</l>
+            <l>Or Happy Fortune shall my Boldness Crown,</l>
+            <l>Or VVelcom Death my troubled Love shall drown.</l>
+            <l>I'le wish though to be cast upon thy shore,</l>
+            <l>And may my shipwrack't Limbs come thee before.</l>
+            <l>Thou'lt weep perhaps, and my dead Body touch,</l>
+            <l>And say, for me he suffer'd has thus much.</l>
+            <l>The Omen of my Death does thee Displease,</l>
+            <l>And thou these sad Lines read'st with little Ease.</l>
+            <l>Complain not, but to Quench this angry Fire,</l>
+            <l>Let both our wishes happily conspire.</l>
+            <l>I need a short Calm now, to swim to thee,</l>
+            <l>VVhen I'm got there, let the storms lasting be.</l>
+            <l>There safely in the Port my Barque shall ride,</l>
+            <l>In no place safer, that it ever try'd.</l>
+            <pb n="16" facs="tcp:58458:13"/>
+            <l>Let <hi>Bor'as</hi> shut me there, I'le freely stay;</l>
+            <l>Then I'le be cauti'us, then I will delay.</l>
+            <l>On the deaf waves then I'le not rail in vain,</l>
+            <l>Nor of the Sea's tempest'ousness complain.</l>
+            <l>There let the winds, and thy soft Arms me keep,</l>
+            <l>Let with these Causes, I'le still with thee sleep.</l>
+            <l>VVhen the storm's laid, in haste I'le swim to thee,</l>
+            <l>Still let the Candle in thy window be.</l>
+            <l>Mean time this Letter may my place supply,</l>
+            <l>My wishes are, that follow soon may I.</l>
+         </div>
+         <div type="part">
+            <pb n="17" facs="tcp:58458:13"/>
+            <head>HERO'S ANSWER.</head>
+            <l>THE Health thou sent'st, <hi>Leander,</hi> I did read,</l>
+            <l>But prithee come, that I may hav't indeed.</l>
+            <l>Delays are ted'ous, which Our Joys deferre,</l>
+            <l>My Ard<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Love confest, to blame forbear.</l>
+            <l>Our Flame is equal, but my Strength is less:</l>
+            <l>Men's Natures are more fit for hardiness.</l>
+            <l>Our Minds and Bodies too much tend'rer are,</l>
+            <l>A small Delay will me quite kill, I fear.</l>
+            <l>You Men or Hunt, or else the Ground do till;</l>
+            <l>Thus you your vacant time with Pleasure fill.</l>
+            <l>Or th' Forum, or the Wrestling busie you,</l>
+            <l>Or Noble Races with swift Steeds pursue;</l>
+            <l>Or Fowls with Gins you catch, or Fish with Lines;</l>
+            <l>Or wash away your cares with Gen'rous Wines.</l>
+            <pb n="18" facs="tcp:58458:14"/>
+            <l>These things from Women Nature does remove,</l>
+            <l>And we have nothing else to do, but Love.</l>
+            <l>And this is all, My Joy, that I can do,</l>
+            <l>I love much more, than can be thought by you,</l>
+            <l>Sometimes I whisper with my Nurse of thee,</l>
+            <l>Wondring what of thy stay the Cause may be.</l>
+            <l>Or looking on the Sea, I chide the VVind</l>
+            <l>VVith Angry words almost the same as thine.</l>
+            <l>But when I see a Calm upon the Main,</l>
+            <l>That thou can'st come, but wilt not, I complain.</l>
+            <l>As I complain, my tears fall down apace,</l>
+            <l>Which my kind Nurse wipes from my Blubber'd Face.</l>
+            <l>Whether thy tracks are in the shore I look;</l>
+            <l>As though the Sand kept the Marks in her Book.</l>
+            <l>That I may write, or know what is thy Health;</l>
+            <l>Of ev'ry Passenger, I ask by stealth.</l>
+            <l>How often do I kiss those Clothes, which thou</l>
+            <l>Put'st off, when thou to swim the Sea dost go!</l>
+            <l>So when day's spent, and friendly Night is near,</l>
+            <l>And the bright-shining Stars i'th' Sky appear;</l>
+            <l>In the high Tow'r my watchful Tapers stand,</l>
+            <l>My wonted Light to Guide thee to the Land.</l>
+            <l>With busie hands the Distaft Flax we spin,</l>
+            <l>The time with work we to deceive begin.</l>
+            <l>What is my talk, if thou desir'st to know,</l>
+            <l>Nought but thy sweet Name through my Lips does go.</l>
+            <l>Thus speak I, Nurse, dost think my Love's come out?</l>
+            <l>Or fears he, 'cause Men walking are about?</l>
+            <l>Is he by this time quite undrest, dost think?</l>
+            <l>Anointed is he gotten to the Brink?</l>
+            <l>She Nods, not that Our Joys she minds indeed,</l>
+            <l>But drowsie sleep seizes her aged Head.</l>
+            <pb n="19" facs="tcp:58458:14"/>
+            <l>Strait, sure, say I, now swimming is my Love,</l>
+            <l>And his Brisk Arms the yielding waters move.</l>
+            <l>When a few Threads spun lye upon the Floor,</l>
+            <l>I ask, whether the way to swim, or swoom, be more?</l>
+            <l>Then looking out, with tim'rous words I pray,</l>
+            <l>That the kind Gales may give thee a good way.</l>
+            <l>Sometimes we hearken wistly, and each Noise</l>
+            <l>We hear, we think to be thy coming voice.</l>
+            <l>And after mid-night whilst I watch still keep,</l>
+            <l>My weari'd eyes are often seiz'd by sleep.</l>
+            <l>Perhaps against thy will thou sleep'st with me,</l>
+            <l>And, though thou would not come, thee here I see.</l>
+            <l>Sometimes, methinks, I see thee swimming on,</l>
+            <l>And thy wet Arms my shoulders hang upon.</l>
+            <l>Sometimes I cloth thee coming from the Deep,</l>
+            <l>And thy wet Body in my Arms hug'd keep.</l>
+            <l>Much more too, which a modest Tongue won't name,</l>
+            <l>Which to do pleases, done to speak were shame.</l>
+            <l>This pleasure's short, Alas! nor is it true,</l>
+            <l>For with my sleep from me away go you.</l>
+            <l>More solid pleasures let our loves Employ,</l>
+            <l>Nor let our flatt'ring Dreams be all our Joy,</l>
+            <l>So many Widow'd Nights why have I spent?</l>
+            <l>Absent to be so long, what's thy intent?</l>
+            <l>The Sea has, I confess, been very rough;</l>
+            <l>But yesternight 'twas almost smooth enough.</l>
+            <l>Why was that lost? why didst not fear delay?</l>
+            <l>In such a Calm, why didst not come away?</l>
+            <l>Though a like calm return, to let thee pass,</l>
+            <l>Because 'twas first, yet that much better was.</l>
+            <l>Thou'lt say, soon change the short smiles of the Sea,</l>
+            <l>But sooner much thou'st often come to me.</l>
+            <pb n="20" facs="tcp:58458:15"/>
+            <l>Detain'd by Tempest here, thou'lt find no harms;</l>
+            <l>No storm shall hurt thee clasp'd within my Arms.</l>
+            <l>The wrangling Winds with their storms would me please,</l>
+            <l>Nor would I ever wish their Jars should cease.</l>
+            <l>But why do the waves now affrighten thee,</l>
+            <l>Who not long since didst so despise the Sea?</l>
+            <l>Time was, when Tempests, which the Sea did Toss;</l>
+            <l>As bad almost, could not thy visits Cross.</l>
+            <l>Whilst still I cry'd, Prithee, be not too bold,</l>
+            <l>Let not thy daring make my heart quite cold.</l>
+            <l>Whence is this Fear? whether's thy boldness fled?</l>
+            <l>Is the great Courage of our swimmer Dead?</l>
+            <l>Be rather thus, than as thou us'st to be,</l>
+            <l>Nor move thy Arms, but through a quiet Sea.</l>
+            <l>But change not, but continue still the same,</l>
+            <l>Nor to cold Ashes turn thy loving flame.</l>
+            <l>So much I don't fear the delays o'th'wind,</l>
+            <l>As least thy wandring love should change thy Mind.</l>
+            <l>And I be thought not worth the seeing now,</l>
+            <l>Nor a good Cause, why thou the waves should'st plough,</l>
+            <l>Sometimes I fear, my Country's thought too mean,</l>
+            <l>And I an unfit Match for'n <hi>Abydene.</hi>
+            </l>
+            <l>There's nothing can so soon my Pati'nce move,</l>
+            <l>As thy Delaying for a Rival Love:</l>
+            <l>Or if Another's Arms thy Neck entwine,</l>
+            <l>And a new Love should cause the End of mine</l>
+            <l>Ah! sooner let me dye, than feel this wound:</l>
+            <l>Come, Death, e're Guilty of this Fault thou'rt found.</l>
+            <l>Not 'cause thou'st giv'n suspiti'n, this do'I name,</l>
+            <l>Or prompted on by a new-broached Fame.</l>
+            <l>But ev'ry thing I fear, as Lovers do,</l>
+            <l>Distance and Absence are strong Motives too.</l>
+            <pb n="21" facs="tcp:58458:15"/>
+            <l>Happy are those, who by their Presence are</l>
+            <l>Spectators of true Crimes and false don't fear.</l>
+            <l>Absent we are disturb'd by false and true,</l>
+            <l>Us each unhappy Error does undo.</l>
+            <l>Oh! that thou'ldst come to me; not Wind, I fear,</l>
+            <l>Or Father, but some Mistress keeps thee there.</l>
+            <l>When this I know, soon dye with Grief shall I;</l>
+            <l>Thou'rt too unkind, if thou would'st have me dye.</l>
+            <l>Thou'rt not unkind: and I am vex'd in vain,</l>
+            <l>The Blustring Winds thy coming do restrain,</l>
+            <l>How fiercely do the Billows the shores beat!</l>
+            <l>How do the clouds us of the clear day Cheat!</l>
+            <l>Now<note n="*" place="margin">
+                  <hi>Helle's</hi> Mother.</note>
+               <hi>Nephele</hi> perhaps i'th' Sea appears.</l>
+            <l>And laments <hi>Helle</hi> drown'd with flouds of tears.</l>
+            <l>Or else the Sea hated, 'cause nam'd from her.</l>
+            <l>The Goddess <hi>Ino</hi> raging, thus does stir.</l>
+            <l>This raging Sea never on VVomen smil'd,</l>
+            <l>This <hi>Helle</hi> drown'd, this shall my Bane be stil'd.</l>
+            <l>If, <hi>Neptune,</hi> of thy love thou mindful wast,</l>
+            <l>No love should e're complain of a Rough Blast.</l>
+            <l>Nor <hi>Amymone,</hi> nor fair <hi>Tyro</hi> are</l>
+            <l>Only feign'd stories of thy loving Care.</l>
+            <l>Thou fair <hi>Alcione, Antone</hi> too,</l>
+            <l>And lovely <hi>Ceyce</hi> did'st more than woo,</l>
+            <l>And fair <hi>Medusa</hi> with her Golden Hair,</l>
+            <l>Before to hissing Snakes they turned were.</l>
+            <l>
+               <hi>Laodice,</hi> Heav'nly <hi>Celaeno</hi> too,</l>
+            <l>And many more, whose Names I well do know.</l>
+            <l>The Poets sing many more loves of thine,</l>
+            <l>VVith whom love's pleasing Charms did thee entwine.</l>
+            <l>VVhy dost thou then, who know'st love does not play,</l>
+            <l>Now with thy storms shut up our Anti'ent way?</l>
+            <pb n="22" facs="tcp:58458:16"/>
+            <l>Cease, cruel <hi>Neptune,</hi> and disturb the Sea,</l>
+            <l>By this small Brook our Lands divided be.</l>
+            <l>Great You, should mighty floating Castles toss.</l>
+            <l>And make whole Fleets for fear be at a loss.</l>
+            <l>
+               <hi>Neptune</hi> should scorn a young man thus to fear,</l>
+            <l>To disturb Lakes as glorious it were.</l>
+            <l>He's Nobly born, but he did not arise</l>
+            <l>From that <hi>Ʋlysses,</hi> whom thou didst despise.</l>
+            <l>Pardon, save two, he only swimmeth there,</l>
+            <l>His Body and my Hopes together are.</l>
+            <l>Just now the Candle (for by it I write)</l>
+            <l>Did sputter, and sent forth propiti'us light.</l>
+            <l>My Nurse powr'd VVine i'th' Fire out of the Cup,</l>
+            <l>VVe shall be more, then drinks the Remnant up.</l>
+            <l>Make us more then, thy swimming Journey make,</l>
+            <l>VVho the Possessi'n of my Heart dost take.</l>
+            <l>Return, Deserter of thy Love, O why</l>
+            <l>In my Forsaken Bed alone lie I?</l>
+            <l>Fear not, for Sea-born <hi>Venus</hi> will help thee,</l>
+            <l>And smooth thy beaten Road in the rough sea,</l>
+            <l>Oft through the waters I have coming been,</l>
+            <l>But that it has been kinder unto Men.</l>
+            <l>For why when <hi>Phryxus</hi> and his Sister came</l>
+            <l>Hither, did she Alone give it a Name?</l>
+            <l>Tiring in your Return perhaps you fear,</l>
+            <l>Nor that you could this double Burden bear.</l>
+            <l>In the midst of the waters let us meet,</l>
+            <l>And there let's give each other Kisses sweet.</l>
+            <l>Then home again let's both depart from sea,</l>
+            <l>This little will, than nothing better be.</l>
+            <l>Which makes us love in stealth, would either shame,</l>
+            <l>Or fearful Love would once abandon Fame.</l>
+            <pb n="23" facs="tcp:58458:16"/>
+            <l>Now love and shame ill-joyn'd cannot Agree,</l>
+            <l>This pleases others, but that pleases me.</l>
+            <l>When <hi>Greci'n Jason</hi> into <hi>Colchos</hi> came,</l>
+            <l>
+               <hi>Medea</hi> to ship off, he thought no shame.</l>
+            <l>When <hi>Trojan Paris</hi> to <hi>Greece</hi> made his way,</l>
+            <l>He soon returned with his gotten Prey.</l>
+            <l>Thou often visit'st me, as oft dost leave,</l>
+            <l>And swim'st, when ships their sailing do Reprieve.</l>
+            <l>Yet, Conqu'ror of the Waves, my only Dear,</l>
+            <l>Them both despise, and prudently them fear.</l>
+            <l>The strong-wrought ships to pieces torn they Drink,</l>
+            <l>And can thy Arms do more than Oars dost think?</l>
+            <l>What thou desir'st, that Seamen fear to do,</l>
+            <l>Shipwrackt they are, who are so bold to go.</l>
+            <l>Whilst I perswade thee thus, I my self wrong,</l>
+            <l>Than these my Arguments be thou more strong.</l>
+            <l>But prithee, come, through the Waves make thy way,</l>
+            <l>And thy tir'd Arms upon my shoulders lay.</l>
+            <l>But, Oh! as oft as I look on the Sea,</l>
+            <l>I know not what cold chilness seizes me.</l>
+            <l>Nor less did Dreams me terrifie last night,</l>
+            <l>Though I with Victims have Aton'd that Fright.</l>
+            <l>For towards morning, when my Lamp went out,</l>
+            <l>The time when truest Dreams do walk about.</l>
+            <l>The threads out of my Fingers found their way,</l>
+            <l>And I my Head did on a Pillow lay.</l>
+            <l>Here comes a Dolphin swimming in the Main,</l>
+            <l>And so exact, I nought have seen more plain.</l>
+            <l>Whom when the Raging Waves cast on the Sand,</l>
+            <l>Both Waves and Life left him Dead on the Land.</l>
+            <l>The Omen's bad, do not my Dream despise,</l>
+            <l>Nor venture in the Sea, whilst the Waves rise.</l>
+            <pb n="24" facs="tcp:58458:17"/>
+            <l>If not thy self, yet prithee, Love, spare me,</l>
+            <l>Who in thy Danger, never safe can be.</l>
+            <l>Yet I have Hopes, the Waves will come to Peace,</l>
+            <l>And then cut thou thy way, when the Winds cease;</l>
+            <l>Mean while, since now thou can'st not swim the Sea,</l>
+            <l>In these Delays let these Lines comfort thee.</l>
+            <div type="section">
+               <head>No Liberty.</head>
+               <l>WHat's Liberty? Or where is't to be found?</l>
+               <l>'Tis nothing but a Name, an Empty sound,</l>
+               <l>Which foolish Man does use, himself to please,</l>
+               <l>For by't he means but var'ous Slaveries.</l>
+            </div>
+            <div type="section">
+               <pb n="25" facs="tcp:58458:17"/>
+               <head>Contented Discontent.</head>
+               <l>HAppy the Man can his Contents command,</l>
+               <l>When Discontents surround on ev'ry hand;</l>
+               <l>And in the midst of Fortune's troubled Sea,</l>
+               <l>In his small Bark enjoy Tranquillity;</l>
+               <l>Swiftly Rides on, and cuts the yielding Waves,</l>
+               <l>That to the Fearful Passengers were Graves;</l>
+               <l>Till safely 'arriv'd at th'shore of Happiness,</l>
+               <l>With Reason can his Prudent Conduct Bless.</l>
+            </div>
+            <div type="section">
+               <head>The New Year.</head>
+               <l>WElcom, young Year, thou New-born <hi>Phaenix,</hi> who</l>
+               <l>Out of thy Parent's Urn art Ris'n but now;</l>
+               <l>Ris'n th' Universal Monarch, at thy Birth</l>
+               <l>Was giv'n thee the Crown of all the Earth.</l>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="26" facs="tcp:58458:18"/>
+            <head>THE CREED IN AN ACROSTICK. The Letters whereof make the first ARTICLE.</head>
+            <lg>
+               <l>I In th' Almighty God do put my Trust;</l>
+               <l>By whom the World Created was, and must</l>
+               <l>Ev'n by him be sustain'd; or else 'twill soon</l>
+               <l>Lost be, and to its Ant'ent Chaos run.</l>
+               <l>In Jesus Christ his Only Son, Our Lord,</l>
+               <l>Ever shall be my Trust; Who does afford</l>
+               <l>Vile and Ungrateful Man the Hopes of Life</l>
+               <l>Eternal in the Heav'ns, where is no Strife.</l>
+            </lg>
+            <lg>
+               <l>Incarnate by the Holy Ghost came forth,</l>
+               <l>Not of a Woman—, but a Virgin-Birth</l>
+               <pb n="27" facs="tcp:58458:18"/>
+               <l>GOD his Dear Son out of his Bosom gave,</l>
+               <l>Of Lost Mankind the wretched Race to save.</l>
+               <l>Dear bought He our Salvati'on, under went</l>
+            </lg>
+            <lg>
+               <l>The Cruel Death o'th' Cross, on which he spent</l>
+               <l>His Preci'ous Blood for us. Him Pilate scourg'd,</l>
+               <l>Ev'n after he'd acquitted him; because Jews urg'd.</l>
+            </lg>
+            <lg>
+               <l>From the dark Grave, breaking Death's slight-wrought Chain,</l>
+               <l>After three days he'd fetter'd in it lain,</l>
+               <l>The Pow'rs of Hell too seen and Conquered,</l>
+               <l>He Rose Victori'ous from his Rocky Bed:</l>
+               <l>Ever to live; He through the Milky Way</l>
+               <l>Rode in the Clouds Triumphant as the Day,</l>
+            </lg>
+            <lg>
+               <l>And in the Glori'ous Heav'ns does now remain</l>
+               <l>Long there to live, Eternally to Reign</l>
+               <l>Most High with His Great Father; And from thence</l>
+               <l>In Judgment shall he come, and Recompence</l>
+               <l>Give to those Men, who shall on Earth remain</l>
+               <l>How Great soever, and to those, who 've lain</l>
+               <l>Thousands of years in uncontrouled sleep</l>
+               <l>In that Cave where all things do silence keep:</l>
+               <l>Each shall Rewarded be for ev'ry Deed.</l>
+            </lg>
+            <lg>
+               <l>Money will not avail, Christ won't be Fee'd.</l>
+               <l>And of his Kingdom there shall be no End.</l>
+               <l>(Know then, proud Man, who Reigns Above, and Mend.)</l>
+               <l>Eternal is the Glori'ous Trinity,</l>
+               <l>Riches immense are in that Mystery:</l>
+            </lg>
+            <lg>
+               <l>One of those Three, the Holy Ghost to be,</l>
+               <l>Firmly I do Believe, God One, the Persons Three.</l>
+            </lg>
+            <lg>
+               <pb n="28" facs="tcp:58458:19"/>
+               <l>HE from the Father and the Son doth spring;</l>
+               <l>Eternally to All Which Saints shall sing,</l>
+               <l>And Glorifie and Worship and Adore.</l>
+               <l>Ven'rable Prophets, who did heretofore</l>
+               <l>Earth's Dreadful Judgments Denounce all abroad,</l>
+               <l>Not Humane Dictates, but the VVord of God.</l>
+            </lg>
+            <lg>
+               <l>An Holy Church dispersed here and there,</l>
+               <l>Nothing but Christs Commandments holding Dear</l>
+               <l>Do live, I doubt not. The bright Saints above,</l>
+            </lg>
+            <lg>
+               <l>Earth's Pious Pilgrims shall be joyn'd in Love.</l>
+               <l>And I Believe in Baptism we have</l>
+               <l>Remissi'on of our Sins. And from the Grave</l>
+               <l>The Dead shall Rise again. And I depend,</l>
+               <l>Heav'n's Joys and Life shall never have an End.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="29" facs="tcp:58458:19"/>
+            <head>The LORD'S PRAYER, AN ACROSTICK. The Letters whereof make the PREFACE.</head>
+            <lg>
+               <l>O Grac'ous Father, who in Heav'n, dost dwell,</l>
+               <l>(Under whose Hands are all the Pow'rs of Hell:)</l>
+               <l>Rescue thy sacred Name from Blasphemy,</l>
+            </lg>
+            <lg>
+               <l>Fill all the VVorld with thy Dread Majesty.</l>
+               <l>And let thy Glor'ous VVord surround the Earth,</l>
+               <l>That of thy Holy Truth there be no Dearth.</l>
+               <l>Heav'n does thy VVill perform, let Earth do so,</l>
+               <l>Ev'n as the Saints Above, the Saints Below.</l>
+               <l>Reach forth to us with thy most Bount'ous Hand</l>
+            </lg>
+            <lg>
+               <l>VVhat things we want, Do thou but give Command,</l>
+               <l>He shall supply our wants, who hopes our Ill,</l>
+               <l>In thy hand, Lord, rests ev'ry Mortal's VVill.</l>
+               <l>Choice Blessings shall come forth the Lyon's Jaws.</l>
+               <l>His Carcase shall Relieve us, whose rough Paws</l>
+            </lg>
+            <lg>
+               <pb n="30" facs="tcp:58458:20"/>
+               <l>At us were lifted up, as to Devour.</l>
+               <l>Ruine intended to sure Rest, thy Pow'r</l>
+               <l>Turns. Pardon whatsoe're we've done amiss;</l>
+            </lg>
+            <lg>
+               <l>It's our Desire to Pardon Trespasses,</l>
+               <l>No En'my's Bond with us Uncancell'd is.</l>
+            </lg>
+            <lg>
+               <l>Help, Lord, and keep us from Temptati'on Free,</l>
+               <l>Earth, Heav'n and Hell Obed'ent are to Thee.</l>
+               <l>And in all Straits send us Delivery.</l>
+               <l>Vail, Man, thy Glory here, and God's Adore,</l>
+               <l>Endless his Kingdom, Glory, and his Power</l>
+               <l>Now is, has been, and shall be Evermore.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="31" facs="tcp:58458:20"/>
+            <head>CONTENT.</head>
+            <lg>
+               <l>CONTENT! Whom all men seek, art seldom found</l>
+               <l>Of any. Where is't that Thou walk'st thy round?</l>
+               <l>Nor Court, nor City, nor the Country Swains</l>
+               <l>Thee in their Banquets, Trades, or constant Pains</l>
+               <l>Enjoy. But Discontent o're the World Reigns.</l>
+               <l>None can thy sought-for Company enjoy,</l>
+               <l>Thou'rt surely like the Self-enamor'd Boy:</l>
+               <l>Many thee Court, but thou art won by none,</l>
+               <l>Ev'n when we think t'embrace thee, thou art gone.</l>
+               <l>No <hi>Indi'an</hi> Mines more sought for are, than Thou:</l>
+               <l>The greatest Treasure that the World can show.</l>
+            </lg>
+            <lg>
+               <l>Is all a nothing unto thee, who art</l>
+               <l>So Rich, so Glorious in ev'ry part.</l>
+            </lg>
+            <lg>
+               <l>A Thousand Worlds who would not give for thee?</l>
+               <l>Nought's wanting where things by Thee ruled be.</l>
+            </lg>
+            <lg>
+               <l>Is there no way to win thee? Oh! those Joys</l>
+               <l>None can express, whose lasting never Cloys.</l>
+            </lg>
+            <lg>
+               <pb n="32" facs="tcp:58458:21"/>
+               <l>Ev'n those Few who enjoy Thee, can't Declare,</l>
+               <l>(Such is the vastness of the Joys, which are</l>
+               <l>The Subject of their Satisfaction) what</l>
+               <l>Is to be found in their Contented State.</l>
+               <l>Mirth is their constant Guest, and sure Delight,</l>
+               <l>And no perplexing Thought dares come in sight.</l>
+               <l>By Thee are all Confusi'ons Banished;</l>
+               <l>(Let Foolish men this World's oft Changes dread)</l>
+               <l>Eternal quiet does possess his Breast,</l>
+            </lg>
+            <lg>
+               <l>In whose blest House thou dost vouchsafe to Rest.</l>
+               <l>Evil can't him disturb, he is secure,</l>
+               <l>Whose Confidence in God is fixed Sure.</l>
+               <l>Each thing does add to his Content, and he</l>
+               <l>Lives safe 'mongst all the World's Uncertainty.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="33" facs="tcp:58458:21"/>
+            <head>An EPITAPH on <hi>S. J.</hi> still Living.</head>
+            <div type="section">
+               <head>In a Bad Sense.</head>
+               <lg>
+                  <l>SHort is the Time we Mortals have to Live.</l>
+                  <l>And yet how much of that short Time we give</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ather to Trifles, or the works of Sin</l>
+                  <l>And VVickedness, than unto Thoughts Divine!</l>
+                  <l>Happy the Frugal of their Preci'ous Hours!</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oy does await them in the Heav'nly Bow'rs.</l>
+                  <l>Oh! had I spent my time well; then I might</l>
+                  <l>Now with great Pleasure have review'd at Night</l>
+                  <l>Each Action of my Day: But now it's gone,</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pent is my Life's Glass, and I am Undone.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>In a Good Sense.</head>
+               <l>I come, Great Father, at thy Dread Command,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'bey thy Summons sent me by Death's Hand.</l>
+               <l>But, Graci'ous Father, e're I breathe my last,</l>
+               <l>Behind thy Back all my Offences cast.</l>
+               <pb n="34" facs="tcp:58458:22"/>
+               <l>Strengthen my Faith now in Death's Agony,</l>
+               <l>And let my closing Thoughts be fix'd on thee,</l>
+               <l>And thy dear Son, of whom I humbly Crave</l>
+               <l>That I of his great Merits part may have</l>
+               <l>To satisfie for my Offences past,</l>
+               <l>Grant this, and let me know, thou 't granted hast.</l>
+               <l>Then in the Grave in peace I'le lay my head</l>
+               <l>And sleep with thy bless'd Saints, which there lye dead.</l>
+               <l>Till thy dread Trump shall summon us again,</l>
+               <l>To thy Great Hall: VVhen Satan does Arraign</l>
+               <l>Us for our Sins, we'le Guilty plead and bring</l>
+               <l>Our Pardon sign'd by thee our Graci'ous King,</l>
+               <l>VVhich will Acquit us, and from thenceforth VVe</l>
+               <l>Shall Reign in Heaven to all Eternity.</l>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="35" facs="tcp:58458:22"/>
+            <head>
+               <hi>J. N.</hi> Died Suddenly <hi>April</hi> 10. 16<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6.</head>
+            <l>THou'rt now, Alas! gone to thy Long Home,</l>
+            <l>And either Know'st or hast receiv'd thy Doom.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou, who three days agoe wert in good Health,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt snatcht by Death away, as 'twere by stealth.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have I seen an Apple on a Tree,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Vhich seem'd nor VVormy, nor yet Ripe to be,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lown by a sudden Blast has fallen down,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o more again b' his dear Branch to be known.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence teach us Lord, our Change to think upon,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince, when our Change will be is known to none.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each us to live according to thy VVord,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lways to practice Thy Commandments, Lord,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat we may not surprized be by Death,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut, when Thou call'st, with peace resign our Breath.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each us to VVatch still and expecting stand,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o hear thy Summons sent us by Death's Hand.</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o shall we all receive thy Promise giv'n,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd for our Recompense be lodg'd in Heav'n:</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Vhere Hallalujah's we shall always Sing,</l>
+            <l>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd still Adore and Thank our God and King.</l>
+         </div>
+         <div type="part">
+            <pb n="36" facs="tcp:58458:23"/>
+            <head>
+               <hi>December <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9th. 1683.</hi> A Rainy <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>awing Sunday.</head>
+            <lg>
+               <l>IMproperly this Day does bear it's Name,</l>
+               <l>In which no shining Ray from <hi>Phoebus</hi> came.</l>
+               <l>A Gloomy and a darksome Day 't has been,</l>
+               <l>Nothing but Rain and thick Clouds have been seen.</l>
+            </lg>
+            <lg>
+               <l>But it may well be called the Lord's day,</l>
+               <l>Because when heav'n and Earth shall flee away;</l>
+               <l>VVhen Quick and Dead shall hear the Trumpet Call</l>
+               <l>All to appear in God's great Judgment Hall;</l>
+               <l>Cloudy and Stormy shall that Great Day be,</l>
+               <l>Nothing but Prodigies shall all Flesh see.</l>
+            </lg>
+            <lg>
+               <l>This Day but few unto the Church did come,</l>
+               <l>The greater Part by far remain'd at Home.</l>
+               <l>If but a show'r of Rain kept them away,</l>
+               <l>VVhen the Church is on Fire, will They in't stay?</l>
+            </lg>
+            <lg>
+               <l>VVhen his bright Beams <hi>Sol</hi> does on his Day dart</l>
+               <l>Then in whole Troops they flock from ev'ry part;</l>
+               <l>But when the Day's beclouded none appear,</l>
+               <l>And there's almost no Congregati'on here.</l>
+               <l>These are they, who on stony Ground are sown,</l>
+               <l>Than whom, in times of Peace, more Zealous none,</l>
+               <l>But when Peace ceaseth, none are sooner flown.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="37" facs="tcp:58458:23"/>
+            <head>SUCCESS.</head>
+            <lg>
+               <l>MAN unto Providence his Thriving owes,</l>
+               <l>His VVicked Policies Heav'n overthrows:</l>
+               <l>His good Designs too, if they do not tend</l>
+               <l>To God, must not expect an happy End.</l>
+            </lg>
+            <lg>
+               <l>All thy Designs with Pray'rs to God begin,</l>
+               <l>That they mayn't fail, nor lead thee into Sin.</l>
+               <l>Beg his assistance, that He would Protect</l>
+               <l>Thee, and supply with's VVisdom thy Defect▪</l>
+            </lg>
+            <lg>
+               <l>Thus Fortify'd and Guarded venture on,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et nothing Daunt thy Resolution,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ike Conqu'ring <hi>Hannibal,</hi> boldly proceed,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et Difficulties thy Intenti'ons feed.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et not one Disappointment baffle thee,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut rather more Resolv'd and Constant be.</l>
+            </lg>
+            <lg>
+               <l>Yet all thy Disappointments ponder well,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onsider why Heav'n does thy projects Quell.</l>
+               <pb n="38" facs="tcp:58458:24"/>
+               <l>Whether thy Thoughts were not employ'd above;</l>
+               <l>Or through forbidden Paths thy Deeds did move;</l>
+               <l>Or whether if Success thy Deeds had Crown'd,</l>
+               <l>Thou might'st not in them greater Cares have found.</l>
+               <l>If so, to thy proceedings put a stay,</l>
+               <l>And turn thy Tide of strength another way.</l>
+            </lg>
+            <lg>
+               <l>If thy Designs are bless'd with wisht Success,</l>
+               <l>Let grateful Thoughts thy thankful Heart possess.</l>
+               <l>Grudge not the Tribute of thy largest Praise,</l>
+               <l>But unto Heav'n thy Noble Thoughts up raise:</l>
+               <l>Publish aloud God's Blessings unto thee,</l>
+               <l>Proclaim'd, like <hi>David's,</hi> let thy Praises be.</l>
+               <l>Give not God's Glory to thy Humane VVit</l>
+               <l>Thou held'st the Bow, he guided thee to hit</l>
+               <l>Thy aim'd-at Mark; Or else thy trembling Hand</l>
+               <l>Had not Obedi'nt been to thy Command.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="39" facs="tcp:58458:24"/>
+            <head>Ʋpon a Sick Maid.</head>
+            <lg>
+               <l>FUll 'twice sev'n Winter Nights are past and gone,</l>
+               <l>Wherein this sickly Maid no Rest has known;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull 'twice sev'n times the glori'ous Sun has rose,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd set as oft, yet finds she no Repose,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach Night a Month seems to her, and each Day</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>akes her to think the Sun has lost his way,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r that his Steeds are Lame, or's Chari'ot lost</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s broken VVheels, and can no longer Boast</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir wonted swiftness —</l>
+            </lg>
+            <lg>
+               <l>These Changes Bodily Distempers make,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut what the Mind's do, th' Measures who can take?</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ninterrupted Torments they endure,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ysit'ans sometimes Bodies, ne're Minds cure.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="40" facs="tcp:58458:25"/>
+            <head>DEATH.</head>
+            <l>DEath! Thou the Ender art of all our Woes,</l>
+            <l>The Just that's Mis'rable with Gladness goes</l>
+            <l>Down to the silent Grave. But the Unjust,</l>
+            <l>Though miserable here, with great Distrust</l>
+            <l>Descends into thy Darksome Chambers, Death,</l>
+            <l>And with extream Reluctancy gives up his Breath.</l>
+            <l>Because his sad Account is nigh at hand,</l>
+            <l>And he before God's Judgment-Seat must stand.</l>
+            <l>His Greatest Troubles do but then Begin,</l>
+            <l>When he must Punisht be for all his Sin.</l>
+         </div>
+         <div type="part">
+            <pb n="41" facs="tcp:58458:25"/>
+            <head>REPUTATION.</head>
+            <l>FAme, Reputation, Credit, Rumor too</l>
+            <l>Are Names, which in the World make much ado.</l>
+            <l>Who Courts this Nymph, (for all are but the same</l>
+            <l>Chimaera-Goddess, by a diff'rent Name)</l>
+            <l>Shall find her Coy, and Vari'ous as the VVind,</l>
+            <l>Depending on each fickle Tongue or Mind;</l>
+            <l>A small Mistake, or a Malici'ous Lye</l>
+            <l>Will quickly make his Int'rest with her dye.</l>
+            <l>Would'st know, O Man, what in this Case to do?</l>
+            <l>The ways of Right'ousness always pursue.</l>
+            <l>In True Integrity still keep the Road,</l>
+            <l>That is describ'd at large i'th' Word of God.</l>
+            <l>If this thy Credit raise among the good;</l>
+            <l>Live not upon't, as on <hi>Camaeleon</hi>'s Food;</l>
+            <l>If Men point at thee as thou pass Along,</l>
+            <l>And people in whole Troops about thee throng;</l>
+            <l>Be not puff'd up with't; for the same's their Lot,</l>
+            <l>VVho on their Credit have the greatest Blot.</l>
+            <l>Hang-men and Newgate-Birds enjoy the same,</l>
+            <l>VVhose strange Offences have proclaim'd their Name.</l>
+            <pb n="42" facs="tcp:58458:26"/>
+            <l>Or if thy Guiltless Life bespatter'd be</l>
+            <l>VVith False Reports, for which thou can'st not see</l>
+            <l>Any Just Grounds; Or envi'ous Persons spend</l>
+            <l>Their utmost Spight and Malice to extend,</l>
+            <l>And wrest thy inn'cent VVords for their Design,</l>
+            <l>To meanings that are Strangers unto Thine;</l>
+            <l>Be not discourag'd, but thy way keep on,</l>
+            <l>Remember, that the same were cast upon</l>
+            <l>Our Savi'our, and his pious Prophets too,</l>
+            <l>VVhat they did, Grudge not thou to undergo.</l>
+            <l>From Vertue's Path, let not this frighten thee:</l>
+            <l>On thy Reward let thy Thoughts fixed be.</l>
+            <l>The gen'rous Horse scorns to break's way for all</l>
+            <l>The barking yelping Curs that at him Brawl.</l>
+            <l>VVhat Monarch would affrighted make a stay,</l>
+            <l>Because an Ape grins at him in the way,</l>
+            <l>VVhen he to Glory does his Journey bend,</l>
+            <l>And all his Nobles on him do attend?</l>
+            <l>Rather not looking at him, on He'd go,</l>
+            <l>Nothing concern'd, scorning so mean a Foe.</l>
+         </div>
+         <div type="part">
+            <pb n="43" facs="tcp:58458:26"/>
+            <head>PSALM <hi>I.</hi> Paraphrased.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>HAppy the Man, thrice happy shall he be</l>
+               <l>In Heav'n's bright Mansions to Eternity,</l>
+               <l>VVho hating all the Devil's works, does shun</l>
+               <l>His Imps Incarnate, whom he has Undone;</l>
+               <l>Avoids their Company, ne're with them goes,</l>
+               <l>Counts them his own, who are his Maker's Foes:</l>
+               <l>Stands not with Pleasure in the VValks of Sin,</l>
+               <l>Nor sitteth in the Bow'ers that are therein.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>But in God's Holy Law his thoughts does spend,</l>
+               <l>To understand and practice it does bend</l>
+               <l>His whole Intenti'ons; he his whole Delight</l>
+               <l>Does place in that, studies it Day and Night.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>As Trees that planted by the VVaters are,</l>
+               <l>By that Advantage, flourish and grow Fair;</l>
+               <l>And in the Autumn with their proper Fruit</l>
+               <l>Yield to the Swain a plentiful Recruit:</l>
+               <l>Ev'n so shall this Man be: But in this thing</l>
+               <l>He shall excel, his Leaves shall always Spring,</l>
+               <l>Shall never Fade, nor VVither, but be Green;</l>
+               <l>Nor ought he undertaketh shall be seen</l>
+               <pb n="44" facs="tcp:58458:27"/>
+               <l>To want Success. But God will him befriend,</l>
+               <l>Crown all his Acti'ons with an happy End.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>But as the stubble, which by th' smallest Blast</l>
+               <l>Is ev'ry Minute troubled and displac'd;</l>
+               <l>Such is the VVicked, who does bend his Mind</l>
+               <l>To serve old Satan, being ill-inclin'd.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>In that great Day, when all the VVorld shall be</l>
+               <l>In God's great Judgment-Hall, their Judge to see,</l>
+               <l>And from his Mouth to hear their sentence giv'n:</l>
+               <l>(Which will some place in Hell, and some in Heav'n.)</l>
+               <l>Then shall the wicked Courage want to stand,</l>
+               <l>When they see Christ sitting at God's Right Hand,</l>
+               <l>And pleading for the humble Innocent,</l>
+               <l>Who have so frequent Prayers to him sent.</l>
+               <l>Nor shall they ever with the Righte'ous go</l>
+               <l>Up into Heav'en, VVhom they despis'd Below.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>The VVay in which the Righte'ous walk, is known</l>
+               <l>By God, and here God's Countenance is shown.</l>
+               <l>But where the VVicked walk, shall be o'regrown</l>
+               <l>VVith Briers, or by VVaters overflown.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="45" facs="tcp:58458:27"/>
+            <head>
+               <hi>PSALM.</hi> III.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>HOW greatly do my Foes, Lord, Multiply!</l>
+               <l>How they encrease that bear me Enmity!</l>
+               <l>As Rivers do, the further course they Run;</l>
+               <l>As Fears to them, who fain themselves would shun;</l>
+               <l>As a Sedition still by progress grows,</l>
+               <l>Till a small Tumult the whole Realm o'reflows:</l>
+               <l>So do my Foes encrease, such Progress make,</l>
+               <l>Still new Conspir'tors to themselves they take.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Thus strengthen'd they Triumphing to me say,</l>
+               <l>Yield now thy self as Conquer'd, and Obey;</l>
+               <l>For God has thee forsaken, see our Pow'r!</l>
+               <l>Of thy Captivity now's come the hour.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>But yet these swelling VVords Affright me not,</l>
+               <l>Their strength is Flesh, Thou art, O Lord, my Lot:</l>
+               <l>Thou, Lord, art my Defence, my Buckler strong,</l>
+               <l>All my Renown does unto thee belong.</l>
+               <l>When I in Miry Woes Amaz'd did stand</l>
+               <l>Doubting my safety, thou didst lend thy hand:</l>
+               <l>Thou Lead'st me out, held'st up my drooping Head,</l>
+               <l>And mad'st me on my Foes in Triumph tread.</l>
+            </lg>
+            <lg n="4">
+               <pb n="46" facs="tcp:58458:28"/>
+               <head>4.</head>
+               <l>When I distress'd my Prayers made to thee,</l>
+               <l>VVithout delay thou sent'st delivery.</l>
+               <l>So speedy are our Cryes, when made aright,</l>
+               <l>They're stronger too than mighty Gi'ants in Fight.</l>
+               <l>From Earth to Heav'n, from thence Return they soon</l>
+               <l>VVith a full Grant of our well-asked Boon.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Trusting on thee, I laid me down in Peace,</l>
+               <l>To take my Rest, and wak'd in the same ease;</l>
+               <l>For thou securest me, proscrib'st my Care;</l>
+               <l>VVhil'st thou dost help, I'le entertain no Fear,</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Milli'ons of Foes that compass me around,</l>
+               <l>My Heart in despe'rate thoughts shall never drown.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Arise, my Mighty God, deliver me.</l>
+               <l>Let all my Foes thy Terrors feel or see:</l>
+               <l>Some thou' already hast smote with wounding stroke,</l>
+               <l>Their Jaws and cheifest strength, thou, Lord, hast broke.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>From thee O Lord, does all Salvation come,</l>
+               <l>Thou thine Elect blessest with Peace at Home.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="47" facs="tcp:58458:28"/>
+            <head>
+               <hi>PSALM</hi> XLVI.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>THou art our strength, O Lord, our strongest Fort,</l>
+               <l>To thee in all Distresses we resort;</l>
+               <l>Thou art our sure Asylum, and from thee</l>
+               <l>Comes present help in all Adversity.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Nothing shall therefore in our hearts beget</l>
+               <l>A Trembling Fear, though all the World be set</l>
+               <l>To Frighten and Amaze us; though the Earth</l>
+               <l>By vast Convulsi'ons, from that Place it's Birth</l>
+               <l>Fixed it in, Remove; though Mountains Tall,</l>
+               <l>By them remov'd, into the Oce'an fall.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Though the rough Waves of <hi>Neptune's</hi> angry Brow</l>
+               <l>Mount up so high, that no Ships can them Plough;</l>
+               <l>Though with their mighty Noise they others fright,</l>
+               <l>And make them dread th' Eternal coming Night;</l>
+               <l>And with their dashing Billows loudly Rore,</l>
+               <l>And shake the strongest Mountains on the Shore.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Amidst these Great Confusi'ons, one Flood shall</l>
+               <l>With gladsome streams compass the quiet Wall</l>
+               <pb n="48" facs="tcp:58458:29"/>
+               <l>Of God's choice City, his most Holy Place,</l>
+               <l>Where is his Temple, where still shines his Face.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>Here God with plent'ous Blessings does Reside,</l>
+               <l>And here his Graci'ous Presence does abide</l>
+               <l>Nothing shall move her then, her helping God</l>
+               <l>Shall scourge her Foes with his chastising Rod.</l>
+               <l>Her earli'est Foes his sure Revenge shall feel,</l>
+               <l>Nought shall avail their swords of trusty Steel.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>The Nati'ons Angry were, and did conspire,</l>
+               <l>But were soon quell'd by God's consuming Fire.</l>
+               <l>His Thundrings and his Lightnings flew abroad,</l>
+               <l>The melting Earth submitted to her God.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>The mighty God of Hosts is with us still,</l>
+               <l>And <hi>Jacob</hi>'s God always preserve us will.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>You, unconsid'ring Men, come and behold</l>
+               <l>God's wondrous Works, which scarcely can be told!</l>
+               <l>What Desolati'ons in his Anger he</l>
+               <l>Has made, which Tokens of his Fury be!</l>
+            </lg>
+            <lg n="9">
+               <pb n="49" facs="tcp:58458:29"/>
+               <head>9.</head>
+               <l>An Universal Peace he does proclaim,</l>
+               <l>None durst his Orders disobey or blame:</l>
+               <l>The Bows and Spears and Ir'on Chari'ots too▪</l>
+               <l>He makes unable any hurt to do.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Be still, saith God, and know that I am he</l>
+               <l>That Govern all, and won't Resisted be.</l>
+               <l>My boundless Glory Heathens shall Proclaim;</l>
+               <l>And all the World Rev'rence my Holy Name.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>The mighty God of Hosts is with us still,</l>
+               <l>And <hi>Jacob</hi>'s God always preserve us will.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb n="50" facs="tcp:58458:30"/>
+            <head>
+               <hi>PSALM</hi> XCI.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>WHO under God his Habitati'on makes,</l>
+               <l>And him for his assur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Protecti'on takes,</l>
+               <l>Shall reap th' advantage of his Prudent Choice,</l>
+               <l>And under his Protecting Shade Rejoyce.</l>
+               <l>Nor burning Heat, nor Rain shall him annoy;</l>
+               <l>All their weak Force God's Branches shall destroy.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Of my Ne're-failing God, I'le always say,</l>
+               <l>He is my Refuge, Fortress, and my stay,</l>
+               <l>My Mighty God, and my most strong Defence,</l>
+               <l>In him alone I'le put my Confidence.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Who e're thou art, that dost on him Rely,</l>
+               <l>Fear not, for he to save thee won't be shy:</l>
+               <l>From those deceitful Men would thee Ensnare,</l>
+               <l>From Sickness too, Salvati'on he'le prepare.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>As Hens their Brood preserve from Birds of Prey,</l>
+               <l>So shall his Wings save thee from Day to Day;</l>
+               <pb n="51" facs="tcp:58458:30"/>
+               <l>And under them thy surest Trust shall be,</l>
+               <l>Better than <hi>Ajax</hi>'s Shield they'le be to thee.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>None of those Dreadful Terrors shall affright</l>
+               <l>Thee, which or walk their Round at dead of Night,</l>
+               <l>Or else with bolder Face out-brave the Day,</l>
+               <l>And Troops of VVorldlings frighted send away.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Nor Pestilence, which Mortals in their sleep</l>
+               <l>Does often from their Clayey Houses sweep;</l>
+               <l>Nor those Contagi'ons, which at Noon-day Sun</l>
+               <l>Through thickest Troops their killing Races run.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Thousands shall drop down dead at thy right hand,</l>
+               <l>Ten Thousands at thy left, yet thou shalt stand.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Thou shalt not feel, but with thine Eyes shalt see,</l>
+               <l>VVith what Just Plagues Sinners rewarded be:</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Because thou 'hast put thy Trust in the Most High,</l>
+               <l>And on my Mighty Refuge dost Rely;</l>
+            </lg>
+            <lg n="10">
+               <pb n="52" facs="tcp:58458:31"/>
+               <head>10.</head>
+               <l>No Crosses or Afflicti'ons shalt thou know,</l>
+               <l>Nor any Plague shall near thy Dwellings go.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>To 'his mighty Angels he shall give Command,</l>
+               <l>About thy VVays protecting thee to stand.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>As careful Mothers do their Children lead,</l>
+               <l>Lest stumbling with their Feet, they bruise their Head:</l>
+               <l>So shall they keep thee and preserve thee still,</l>
+               <l>That thy great Foe may never have his will.</l>
+            </lg>
+            <lg n="13">
+               <head>13.</head>
+               <l>On Asps and Dragons, and on Lions strong</l>
+               <l>Securely shalt thou tread, and Lyons young.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Because he has fixed on me his Love,</l>
+               <l>Nothing shall him from my Salvati'on Move.</l>
+               <l>I will exalt him on the VVings of Fame,</l>
+               <l>'Cause he Relies upon my Holy Name.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>He shall his constant Pray'rs unto me make,</l>
+               <l>And them to answer I still care will take</l>
+               <pb n="53" facs="tcp:58458:31"/>
+               <l>In all his Trouble I'le still with him be,</l>
+               <l>Still save him, and his Honour all shall see.</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>Long Life, if he desire, I will him Give,</l>
+               <l>And under my Protecti'on he shall Live.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
